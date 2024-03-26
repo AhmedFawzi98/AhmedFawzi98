@@ -40,7 +40,7 @@
 
 ###
 
-<img align="left" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fpriyaranjankumar%2F051eef758814e64902f213da8ca0d54e&psig=AOvVaw2BaJFp9vSV7trnhP7UBf-_&ust=1711515756664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDr75WTkYUDFQAAAAAdAAAAABAE"  />
+<img align="left" height="150" src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067"  />
 
 ###
 
