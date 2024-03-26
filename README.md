@@ -40,7 +40,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.licdn.com/dms/image/D4D03AQEE8WmKC6wubw/profile-displayphoto-shrink_800_800/0/1710248067504?e=1717027200&v=beta&t=5laHnfKfbNr1fr4_D7Lfk96XtCJ0cSJkSjvfGmYk5RY"  />
+<img align="left" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fpriyaranjankumar%2F051eef758814e64902f213da8ca0d54e&psig=AOvVaw2BaJFp9vSV7trnhP7UBf-_&ust=1711515756664000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDr75WTkYUDFQAAAAAdAAAAABAE"  />
 
 ###
 
