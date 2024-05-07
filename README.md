@@ -1,4 +1,4 @@
-<h2 align="left">Hello! This is Ahmed Fawzi, a junior ambitious software engineer</h2>
+<h2 align="left">Hello! This is Ahmed Fawzi, an ambitious software engineer specialized in .NET Technology</h2>
 
 ###
 
