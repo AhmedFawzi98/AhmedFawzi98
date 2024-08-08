@@ -7,7 +7,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
-    <img src="  https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="javascript logo"  />
+    <img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="rabbitMQ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
