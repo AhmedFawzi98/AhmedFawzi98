@@ -1,4 +1,4 @@
-<h2 align="left">Hello! This is Ahmed Fawzi, an ambitious software engineer specialized in .NET Technology</h2>
+<h2 align="left">Hello! This is Ahmed Fawzi, an ambitious software engineer specialized in Backend Engineering using .NET Stack</h2>
 
 ###
 
@@ -6,6 +6,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+    <img src="  https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
