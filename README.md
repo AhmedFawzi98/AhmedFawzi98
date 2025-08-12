@@ -37,22 +37,24 @@
 
 <!-- My Profiles -->
 <div align="left">
-  <!-- LinkedIn -->
+  <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
+     My Profiles
+  </h3>
+
+  <!-- Badges Container -->
   <a href="https://www.linkedin.com/in/ahmed-fawzi-elarabi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 
-  <!-- Medium -->
   <a href="https://medium.com/@ahmedfawzielarabi98" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" />
   </a>
 
-    <!-- LeetCode -->
   <a href="https://leetcode.com/u/AhmedFawzi98x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
   </a>
-  
 </div>
+
 
 
 <h4 align="left">Anyone can write code that a computer can understand, good programmers write code that humans can understand.</h4>
