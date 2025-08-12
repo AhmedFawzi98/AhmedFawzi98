@@ -3,24 +3,20 @@
 
 <h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, Redis, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications using microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
 
-<h3 style="
+<div style="
+  background: #f9f9f9;
+  padding: 12px 20px;
+  border-left: 5px solid #4CAF50;
   font-family: 'Segoe UI', sans-serif;
-  font-weight: bold;
+  font-style: italic;
+  font-size: 1.1em;
   color: #333;
-  text-align: center;
-  position: relative;
-  display: inline-block;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  max-width: 500px;
 ">
-  First, solve the problem. Then, write the code.
-  <span style="
-    position: absolute;
-    bottom: -4px;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background: linear-gradient(to right, #4CAF50, #2196F3);
-  "></span>
-</h3>
+  “First, solve the problem. Then, write the code.”
+</div>
+
 
 
 <div align="left">
