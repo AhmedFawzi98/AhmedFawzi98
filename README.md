@@ -1,5 +1,4 @@
 <h2 align="left"> Software Engineer | Building Scalable, Maintainable Systems that Deliver Real-World Impact.</h2>
-<hr style="border: none; height: 1px; background-color: #ddd; margin: 8px 0;">
 
 <h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, Redis, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications using microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
 
@@ -23,7 +22,6 @@
     <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
      Tech Stack
   </h3>
-<hr style="border: none; height: 1px; background-color: #ddd; margin: 8px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   
@@ -63,7 +61,6 @@
   <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
      Find Me Online
   </h3>
-<hr style="border: none; height: 1px; background-color: #ddd; margin: 8px 0;">
 
   <!-- Badges Container -->
   <a href="https://www.linkedin.com/in/ahmed-fawzi-elarabi/" target="_blank">
