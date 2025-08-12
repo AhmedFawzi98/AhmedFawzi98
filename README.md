@@ -1,20 +1,37 @@
-<h2 align="left">Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications using microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments.</h2>
+<h2 align="left">Product-minded Backend Engineer | Scalable Systems, Clean Code, Real-World Impact.</h2>
 
+<h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications using microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
-    <img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="rabbitMQ logo"  />
+  
+  <img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="rabbitMQ logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
+  
+  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="30" alt="Redis logo" />
+  <img width="12" />
+  
+  <img src="https://masstransit.io/img/logo.svg" height="30" alt="MassTransit logo" />
+  <img width="12" />
+  
+  <img src="https://raw.githubusercontent.com/jbogard/MediatR/master/assets/MediatR.png" height="30" alt="MediatR logo" />
+  <img width="12" />
+</div>
+  
 ###
 
 <div align="left">
