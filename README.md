@@ -5,14 +5,23 @@
 
 <h3 style="
   font-family: 'Segoe UI', sans-serif;
-  font-weight: 500;
-  font-style: italic;
-  color: #444;
-  border-left: 4px solid #4CAF50;
-  padding-left: 10px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+  position: relative;
+  display: inline-block;
 ">
-  “First, solve the problem. Then, write the code.”
+  First, solve the problem. Then, write the code.
+  <span style="
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(to right, #4CAF50, #2196F3);
+  "></span>
 </h3>
+
 
 <div align="left">
     <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
