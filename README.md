@@ -35,28 +35,30 @@
   
 ###
 
+<!-- My Profiles -->
 <div align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ahmed-fawzi-elarabi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@ahmedfawzielarabi98" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" />
+  </a>
+
+    <!-- LeetCode -->
+  <a href="https://leetcode.com/u/AhmedFawzi98x/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo" />
+  </a>
+  
 </div>
 
 
-<h3 align="left">Anyone can write code that a computer can understand, good programmers write code that humans can understand.</h3>
+<h4 align="left">Anyone can write code that a computer can understand, good programmers write code that humans can understand.</h4>
 
 ###
 
 <br clear="both">
 
 
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFawzi98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedFawzi98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AhmedFawzi98&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
