@@ -29,7 +29,7 @@
   <img src="https://masstransit.io/mt-logo-color.png" height="30" alt="MassTransit logo" />
   <img width="12" />
   
-  <img src="https://downloads.marketplace.jetbrains.com/files/18313/750667/icon/default.png" height="30" alt="MediatR logo" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEXqMPuCz0UYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705872320895?e=2147483647&v=beta&t=H0gsnJBKUe5tfXKdcZXT3invJGKja2y_QRlRsB6Uz0g" height="30" alt="MediatR logo" />
   <img width="12" />
 </div>
   
@@ -41,11 +41,6 @@
   </a>
 </div>
 
-###
-
-<img align="left" height="150" src="https://camo.githubusercontent.com/1c274f333634fe7138b466ad1756951cddc28a4bb18f3874c6c3100b5a643f0b/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067"  />
-
-###
 
 <h3 align="left">Anyone can write code that a computer can understand, good programmers write code that humans can understand.</h3>
 
