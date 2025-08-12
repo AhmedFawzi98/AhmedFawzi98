@@ -1,6 +1,7 @@
-<h2 align="left">Product-minded Backend Engineer | Scalable Systems, Clean Code, Real-World Impact.</h2>
+<h2 align="left"> Software Engineer | Building Scalable, Maintainable Systems that Deliver Real-World Impact.</h2>
 
-<h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications using microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
+<h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, Redis, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications using microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
+
 ###
 
 <div align="left">
@@ -25,10 +26,10 @@
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="30" alt="Redis logo" />
   <img width="12" />
   
-  <img src="https://masstransit.io/img/logo.svg" height="30" alt="MassTransit logo" />
+  <img src="https://masstransit.io/mt-logo-color.png" height="30" alt="MassTransit logo" />
   <img width="12" />
   
-  <img src="https://raw.githubusercontent.com/jbogard/MediatR/master/assets/MediatR.png" height="30" alt="MediatR logo" />
+  <img src="https://downloads.marketplace.jetbrains.com/files/18313/750667/icon/default.png" height="30" alt="MediatR logo" />
   <img width="12" />
 </div>
   
