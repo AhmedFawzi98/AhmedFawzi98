@@ -23,9 +23,7 @@
     <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
      Tech Stack
   </h3>
-    
 <hr style="border: none; height: 1px; background-color: #ddd; margin: 8px 0;">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   
@@ -65,9 +63,7 @@
   <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
      Find Me Online
   </h3>
-    
 <hr style="border: none; height: 1px; background-color: #ddd; margin: 8px 0;">
-
 
   <!-- Badges Container -->
   <a href="https://www.linkedin.com/in/ahmed-fawzi-elarabi/" target="_blank">
