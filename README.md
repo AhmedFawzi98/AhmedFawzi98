@@ -5,6 +5,10 @@
 ###
 
 <div align="left">
+    <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
+     Tech Stack
+  </h3>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
   
@@ -31,6 +35,10 @@
   
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQEXqMPuCz0UYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705872320895?e=2147483647&v=beta&t=H0gsnJBKUe5tfXKdcZXT3invJGKja2y_QRlRsB6Uz0g" height="30" alt="MediatR logo" />
   <img width="12" />
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQ7WY4VjFPpx9e5FdXuPveyHND03dxVWztA&s" height="30" alt="Docker logo" />
+  <img width="12" />
+  
 </div>
   
 ###
@@ -38,7 +46,7 @@
 <!-- My Profiles -->
 <div align="left">
   <h3 style="margin-bottom: 10px; font-family: Arial, sans-serif;">
-     My Profiles
+     Find Me Online
   </h3>
 
   <!-- Badges Container -->
@@ -57,7 +65,7 @@
 
 
 
-<h4 align="left">Anyone can write code that a computer can understand, good programmers write code that humans can understand.</h4>
+<h3 align="left">First, solve the problem. Then, write the code.</h3>
 
 ###
 
