@@ -27,26 +27,26 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
-  
-  <img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="rabbitMQ logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="30" alt="Redis logo" />
+  <img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="rabbitMQ logo"  />
   <img width="12" />
   
   <img src="https://masstransit.io/mt-logo-color.png" height="30" alt="MassTransit logo" />
   <img width="12" />
   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="30" alt="Redis logo" />
+  <img width="12" />
+
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQEXqMPuCz0UYA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705872320895?e=2147483647&v=beta&t=H0gsnJBKUe5tfXKdcZXT3invJGKja2y_QRlRsB6Uz0g" height="30" alt="MediatR logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQ7WY4VjFPpx9e5FdXuPveyHND03dxVWztA&s" height="30" alt="Docker logo" />
