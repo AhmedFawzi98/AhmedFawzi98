@@ -1,6 +1,6 @@
 <h2 align="left"> Software Engineer | Building Scalable, Maintainable Systems that Deliver Real-World Impact.</h2>
 
-<h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in backend development with expertise in C#, ASP.NET Core, SQL Server, Redis, RabbitMQ, and MassTransit. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications across various architectural styles and patterns, including microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
+<h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in fullstack development with expertise in C#, ASP.NET Core, SQL Server, Redis, RabbitMQ, MassTransit, and Angular. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications across various architectural styles and patterns, including microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
 
 <div style="
   background: #f9f9f9;
@@ -29,6 +29,12 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+
+  <img src="https://static.cdnlogo.com/logos/t/96/typescript.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  
+  <img src="https://static.cdnlogo.com/logos/a/24/angular-icon.svg" height="30" alt="angular logo"  />
   <img width="12" />
   
   <img src="https://download.logo.wine/logo/RabbitMQ/RabbitMQ-Logo.wine.png" height="30" alt="rabbitMQ logo"  />
