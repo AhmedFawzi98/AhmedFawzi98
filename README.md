@@ -43,7 +43,7 @@
   <img src="https://masstransit.io/mt-logo-color.png" height="30" alt="MassTransit logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  <img src="https://static.cdnlogo.com/logos/m/6/microsoft-sql-server.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   
   <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="30" alt="Redis logo" />
