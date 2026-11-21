@@ -1,6 +1,11 @@
 <h2 align="left"> Software Engineer | Building Scalable, Maintainable Systems that Deliver Real-World Impact.</h2>
 
-<h4 align="left"> Hello! This is Ahmed Fawzi, a product-minded Software Engineer specializing in fullstack development with expertise in C#, ASP.NET Core, SQL Server, Redis, RabbitMQ, MassTransit, and Angular. Strong foundation in Object-Oriented Design, Design Patterns, and SOLID principles, with proven experience building scalable, maintainable, and data-intensive applications across various architectural styles and patterns, including microservices and event-driven architectures. Skilled at implementing asynchronous communication patterns, optimizing performance through efficient SQL queries, and applying a deep understanding of database internals. Committed to writing clean, high-quality code that aligns with business goals and thrives in collaborative, fast-paced environments </h4>
+<h4 align="left"> Hello! This is Ahmed Fawzi, I'm a product-minded Software Engineer specializing in full-stack development, with a strong focus on backend engineering and building business-critical applications.
+My experience spans different architectural styles, including microservices, modular monoliths, and event-driven architectures, primarily within the fintech domain. I've contributed to designing and establishing the architecture of greenfield systems, developing data-intensive applications, optimizing API and database performance, and building reliable asynchronous workflows.
+I've also tackled distributed systems challenges involving concurrency, messaging, data consistency, and fault tolerance, alongside developing responsive, component-based frontend applications using Angular and TypeScript, integrating user interfaces with backend services to deliver end-to-end business features.
+
+My engineering approach is grounded in strong software engineering fundamentals, pragmatic architectural decisions, and an understanding of the trade-offs between technical complexity and business needs.
+I'm particularly interested in building scalable, fault tolerant systems, solving complex engineering problems, and delivering software that creates measurable business value. </h4>
 
 <div style="
   background: #f9f9f9;
